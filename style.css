@@ -11,3 +11,11 @@ h2 {
 p {
     line-height: 25px;
 }
+p:last-child {
+    margin-top: 50px;
+    font-style: oblique;
+}
+
+span {
+    font-style: oblique;
+}
